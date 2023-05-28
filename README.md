@@ -17,4 +17,4 @@
   <li>20cm=Blue</li>
   <li>25cm=Blue</li>
 </ul>
-By Going thtough the code we can easily change the led color & distance
+By Going through the code we can easily change the led color & distance
