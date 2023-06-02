@@ -6,7 +6,7 @@
 <ul>
   <li>Jumper Wires</li>
   <li>Breadboard</li>
-  <li>Chasis(Plywood or Fibre)</li>
+  <li>Plane Surface(Plywood or Fibre)</li>
   <li> 7 LED</li>
   <li>Arduino UNO R3(Main Computing Part of the Circuit)</li>
   <li> Ultrasonic Sensor HSRC90</li>
