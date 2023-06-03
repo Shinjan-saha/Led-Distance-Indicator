@@ -1,13 +1,14 @@
 # Led-Distance-Indicator
 <img src="./images/dist.jpg" align="left" height="270" width="222">
 
-# Parts Required For Building The Bot:-
+# Parts Required For Building The Circuit:-
 
 <ul>
   <li>Jumper Wires</li>
   <li>Breadboard</li>
   <li>Plane Surface(Plywood or Fibre)</li>
   <li> 7 LED</li>
+  <li> 7 1ohm Resistor</li>
   <li>Arduino UNO R3(Main Computing Part of the Circuit)</li>
   <li> Ultrasonic Sensor HSRC90</li>
   <li>Charger(coaxial power connectors) Or Battery (9-12V) </li>
